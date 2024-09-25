@@ -1,2 +1,1 @@
-# RemBG
-Few days back I went through Image background removal code. So I tried using the code with tkinter module to take image path from user and help them to remove background from their picture.
+📸 Recently, I created a project that combines an image background removal tool with a user-friendly interface built using Python's Tkinter module. 🖼️ This tool allows users to easily input an image path and remove the background from their pictures with just a few clicks! ✂️
